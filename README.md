@@ -10,11 +10,11 @@ Developing a data warehouse using SQL Server, which involves implementing ETL pr
 Creating a data warehouse with SQL Server to integrate sales data, supporting analytical reporting and facilitating data-driven decision-making.
 
 ### Specifications
-**Data Sources**: Import data from two source systems (ERP and CRM) provided as CSV files.
-**Data Quality**: Clean and resolve data quality issues before analysis.
-**Integration**: Combine both sources into a user-friendly data model for analytical queries.
-**Scope**: Historization of data is not required.
-**Documentation**: Provide clear documentation of data model to support both business stakeholders and analytics teams.
+- **Data Sources**: Import data from two source systems (ERP and CRM) provided as CSV files.
+- **Data Quality**: Clean and resolve data quality issues before analysis.
+- **Integration**: Combine both sources into a user-friendly data model for analytical queries.
+- **Scope**: Historization of data is not required.
+- **Documentation**: Provide clear documentation of data model to support both business stakeholders and analytics teams.
 
 ---
 
@@ -23,9 +23,9 @@ Creating a data warehouse with SQL Server to integrate sales data, supporting an
 ### Objective
 
 Develop SQL-based analytics to deliver detailed insights into:
-**Customer Behavior**
-**Product Performance**
-**Sales Trends**
+- **Customer Behavior**
+- **Product Performance**
+- **Sales Trends**
 
 
 ## About Me ##
